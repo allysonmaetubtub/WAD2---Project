@@ -14,77 +14,55 @@ Grading System is very useful, for the reason that it is broad and functional. T
 
 ## OVERVIEW OF THE SYSTEM
 
-![alt text][logo]
-
-[logo]: https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/log%20in.jpg "LOG IN PAGE"
+![alt text](https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/log%20in.jpg "LOG IN PAGE")
 
 **_LOG IN_**
 -where the users log into the application by entering their teacher ID and password
 -in case of forgotten password, there is a possibility that an unassured user cannot proceed to the next page
 -if a user isn't a member yet, he can register by pressing the **REGISTER** button located at the upper right part of the page, and will be reviewed by the admin, for the assurance of the authorization of the user.
 
-![alt text][logo]
-
-[logo]: https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/signed%20in.jpg "HOME PAGE"
+![](https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/signed%20in.jpg "HOME PAGE")
 
 **_HOME_**
 -once the user has logged in, (either by having an exsisting account or by the register function) he can now proceed to this page
 -contains a button at a center for the list of students
 -hoverable buttons at the upper right corner, when clicked, dropdowns a menu - PROFILE and LOG OUT.
 
-![alt text][logo]
+![alt text](https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/user-profile-view.jpg "USER PROFILE")
 
-[logo]: https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/user-profile-view.jpg "USER PROFILE"
+![alt text](https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/user-profile-view-edit.jpg "EDIT USER PROFILE")
 
-![alt text][logo]
-
-[logo]: https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/user-profile-view-edit.jpg "EDIT USER PROFILE"
-
-![alt text][logo]
-
-[logo]: https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/user-profile-view-edit-saved.jpg "SAVED USER PROFILE"
+![alt text](https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/user-profile-view-edit-saved.jpg "SAVED USER PROFILE")
 
 **_USER PROFILE_**
 -can be viewed, changed, and saved
 -contains the necessary brief information about the user
 
-![alt text][logo]
-
-[logo]: https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/log%20out.jpg "LOG OUT"
+![alt text](https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/log%20out.jpg "LOG OUT")
 
 **_LOG OUT_**
 -for logging out, and leaving the page
--by clicking it, the user will be redirected to the LOG IN page
+-by clicking it, the user will be redirected to the **LOG IN** page
 
-![alt text][logo]
-
-[logo]: https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/records.jpg "MY STUDENTS BUTTON"
+![alt text](https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/records.jpg "MY STUDENTS BUTTON")
 
 **_MY STUDENTS - BUTTON_**
 -shows the overall record of a class/section
 -shows student name, section, and final grade
 -for an easy browse and reference
--contains buttons - ADD STUDENT(upper right of the table), VIEW, EDIT, DELETE
+-contains buttons - **ADD STUDENT**(upper right of the table), **VIEW, EDIT, DELETE**
 
-![alt text][logo]
+![alt text](https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/record-new.jpg "ADD A STUDENT")
 
-[logo]: https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/record-new.jpg "ADD A STUDENT"
-
-![alt text][logo]
-
-[logo]: https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/record-invalid.jpg "VALIDATION"
+![alt text](https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/record-invalid.jpg "VALIDATION")
 **_ADD A STUDENT_**
 -generates a form for the additional student
 -authenticates inputted values and informs the user for invalidity
--automatically adds the student to the list after pressing the SAVE button
+-automatically adds the student to the list after pressing the **SAVE** button
 
-![alt text][logo]
+![alt text](https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/record-edit.jpg "EDIT")
 
-[logo]: https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/record-edit.jpg "EDIT"
-
-![alt text][logo]
-
-[logo]: https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/record-edited-saved.jpg "UPDATED"
+![alt text](https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/record-edited-saved.jpg "UPDATED")
 
 **_EDIT BUTTON_**
 -generates a form, with the current values of the selected student on the field
@@ -92,9 +70,7 @@ Grading System is very useful, for the reason that it is broad and functional. T
 -automatically updates the list of the edited student record
 -generates a flash message to inform the user that the change has been modified successfully
 
-![alt text][logo]
-
-[logo]: https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/record-deleted.jpg "DELETE"
+![alt text](https://github.com/allysonmaetubtub/WAD2---Project/blob/master/screenshots/record-deleted.jpg "DELETE")
 
 **_DELETE BUTTON_**
 -red-colored to indicate warning to the user
